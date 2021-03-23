@@ -46,7 +46,7 @@ def get_filters():
             print('You provided invalid day')
             day = input('Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday? ').title()
     else:
-        day = 'all'
+        day = 'monday'
 
     print('-'*40)
     return city, month, day
