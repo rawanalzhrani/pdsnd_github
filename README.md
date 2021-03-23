@@ -7,7 +7,7 @@
 explore us bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+use python to understand u.s  data 
 
 ### Files used
 Include the files used
