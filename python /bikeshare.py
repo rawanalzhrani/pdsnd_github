@@ -36,7 +36,7 @@ def get_filters():
             print('You provided invalid month')
             month = input('Which month - January, February, March, April, May, or June? ').lower()
     else:
-        month = 'all'
+        month = 'march'
 
     # get user input for day of week (all, monday, tuesday, ... sunday)
     days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
